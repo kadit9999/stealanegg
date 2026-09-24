@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/idk953072-crypto/Steal-an-Egg/refs/heads/main/vincitore"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=vinco"))()
