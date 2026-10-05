@@ -8,7 +8,7 @@ local CoreGui     = game:GetService("CoreGui")
 local RunService  = game:GetService("RunService")
 
 -- 🔽 SCRIPT ĐÍCH (đã đổi link)
-local SCRIPT_URL  = "https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/SAE.luau"
+local SCRIPT_URL  = "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua"
 
 -- =========================================================
 --  TỪ ĐIỂN DỊCH (EN -> VI)
