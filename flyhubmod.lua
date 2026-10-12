@@ -6,7 +6,7 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 
 -- 🔽 SCRIPT ĐÍCH
-local SCRIPT_URL = "https://fyycommunity.com/"
+local SCRIPT_URL = "https://FyyCommunity.my.id"
 
 -- =========================================================
 --  TỪ ĐIỂN
