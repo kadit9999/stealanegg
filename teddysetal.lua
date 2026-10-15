@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/teddyhubdev/diepvy/refs/heads/main/TeddyHub.lua"))()"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=teddy"))()"))()
