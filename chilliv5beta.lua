@@ -17,7 +17,7 @@ if not getgenv().__VenyxV5Loaded then
     getgenv().__VenyxV5Loaded = true
     task.spawn(function()
         pcall(function()
-            loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/a40becae9d58ed4c969ab2f9d26f2f1b.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/tienkhanh1/Venyx/main/VenyxHub"))()
         end)
     end)
 end
